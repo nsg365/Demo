@@ -1,2 +1,3 @@
 # Demo
-This is my first Git repos
+This is my first Git repository
+Author - Nihar Sagar
