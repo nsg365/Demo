@@ -1,4 +1,4 @@
 # Demo
 This is my first Git repository.
 <br>
-Author - Nihar Sagar.
+Author - Nihar Sagar G.
